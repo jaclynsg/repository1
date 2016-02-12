@@ -50,9 +50,9 @@ Theme Styles
 
 body {
   box-sizing: border-box;
-  color:#373737;
+  color:#b5eb04;
   background: #212121;
-  font-size: 16px;
+  font-size: 20px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
@@ -62,7 +62,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 700;
   color: #b93904;
-  font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
+  font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif; 'Comic Sans'
   letter-spacing: -1px;
 }
 
@@ -380,6 +380,7 @@ Small Device Styles
 @media screen and (max-width: 480px) {
   body {
     font-size:14px;
+    colour: #285555
   }
 
   #downloads {
@@ -401,6 +402,7 @@ Small Device Styles
 
   h2 {
     font-size: 24px;
+    color: #b5eb04;
   }
 
   h3 {
