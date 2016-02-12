@@ -61,7 +61,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 700;
-  color:#b5eb04;
+
   font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
   letter-spacing: -1px;
 }
@@ -76,6 +76,7 @@ h1 {
 h2 {
   padding-bottom: 10px;
   font-size: 36px;
+  color: #b5eb04;
   background: url('../images/bg_hr.png') repeat-x bottom;
 }
 
