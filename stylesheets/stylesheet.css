@@ -307,7 +307,7 @@ Full-Width Styles
   margin: 0;
   color: #b5eb04;
   font-size: 56px;
-  font-family: Comic Sans;
+  font-family: Comic Sans, cursive, sans-serif;
   font-weight: 700;
   text-shadow: #111 0px 0px 10px;
 }
